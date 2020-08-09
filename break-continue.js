@@ -7,7 +7,7 @@ for(let i = 0; i < num.length; i++){
         break;
     }
 
-    // console.log(num[i]);
+    console.log(num[i]);
 }
 
 
